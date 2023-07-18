@@ -6,7 +6,7 @@ This project is a shopping cart made with React and Strapi. It loads a products 
 
 ## How to Run
 
-First you should download the Card Foler, then follow the instructions below:
+First you should download the Card Foler, I am not sure how to upload this file in Github. Then, the instructions below:
 1. CD Route of the Card Folder on your PC
 2. npm run develop
 3. Put the credentials:
